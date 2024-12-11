@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Introduction to Blogging",
+        "description": "Learn the basics of creating a blog.",
+        "image": "assets/post1.jpg",
+        "link": "blog/post1.md"
+    },
+    {
+        "title": "How to Scale Your Blog",
+        "description": "Tips and tricks for scaling your blog globally.",
+        "image": "assets/post2.jpg",
+        "link": "blog/post2.md"
+    }
+]
